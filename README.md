@@ -38,7 +38,7 @@ El proyecto se encuentra documentado en línea en Vercel (presentación estátic
 ## 👨‍💻 Autores
 
 - **Cristian Casas** – [@CrisCasas](https://github.com/CrisCasas)
-- **Juan Manuel Serrano**
+- **Juan Manuel Serrano** - [@JuanSerrnao](https://github.com/EngJuanSER)
 
 ## 📜 Licencia
 
